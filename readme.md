@@ -1,7 +1,14 @@
 # Python Unit Tests
 
+### Basic Pytest Example
+
+/pytest-basic
+Contains a basic example of a python test Unit using pytest
+
 ### Lambda Edge
 
-/lambda-edge-deploy contains the CDK needed to deploy the lambda resource.
+/lambda-edge-deploy 
+Contains the CDK needed to deploy the lambda resource.
 
-/lambda-edge-test contains the unit tests needed to test the deployed lambda resource.
+/lambda-edge-test 
+Contains the unit tests needed to test the deployed lambda resource.
