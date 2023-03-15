@@ -1,6 +1,4 @@
-# Python Unit Tests
-
-### Basic Pytest Example
+# Pytest Examples
 
 [/pytest-basic](/pytest-basic/pytests-basic-example.py)
 
